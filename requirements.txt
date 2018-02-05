@@ -2,4 +2,4 @@ Flask
 Flask-RESTful
 Flask-JWT
 uwsgi #Only for Heroku
-import numpy
+numpy
